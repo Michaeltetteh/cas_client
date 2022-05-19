@@ -1,0 +1,8 @@
+db.sqlite3
+*.pyc
+.DS_Store
+*.pyc
+**/*.pyc
+venv
+*.pyc
+**/*.pyc
